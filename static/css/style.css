@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.get_link {
+	margin-top: 15%;
+	margin-left: 30%;
+	font-family: 'Roboto', sans-serif;
+	width: 25%;
+	height: 30%;
+}
+
+.get_url {
+	height: 20px;
+	width: 300px;
+}
+
+#button_send {
+	height: 28px;
+	width: 80px;
+}
