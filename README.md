@@ -2,6 +2,7 @@
 Simple urlshortener written on flask.
 
 Type commands:
+
 $ cd urlshortener 
 
 $ python 
